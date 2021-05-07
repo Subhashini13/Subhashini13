@@ -1,5 +1,5 @@
 --👋 Hi, I’m SUBHASHINI 
--\n- A PASSIONATE DEVELOPER AND A LEARNER FROM INDIA.
+-- A PASSIONATE DEVELOPER AND A LEARNER FROM INDIA.
 --👀 I’m interested in WEB DEVELOPMENT AND AI ENTHUSIAST
 --🌱 I’m currently learning FULL STACK DEVELOPMENT AND MACHINE LEARNING .
 --📫 How to reach me -kanthsubhashini@gmail.com
