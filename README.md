@@ -10,9 +10,9 @@
 
 ⚡ Fun fact:
 
-✏️ I Write blogs on subhin.blogspot.com in free time.
+✏️ I Write blogs on subhinspeaks.blogspot.com in free time.
 
-🎵 I love listening music.
+🎵 I love listening music, exploring new places , reading novels and capturing photographs through my LENS.
 
 ☕ Let's Connect 
 
