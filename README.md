@@ -1,8 +1,12 @@
 --👋 Hi, I’m SUBHASHINI 
--- A PASSIONATE DEVELOPER AND A LEARNER FROM INDIA.
---👀 I’m interested in WEB DEVELOPMENT AND AI ENTHUSIAST
---🌱 I’m currently learning FULL STACK DEVELOPMENT AND MACHINE LEARNING .
---📫 How to reach me -kanthsubhashini@gmail.com
+
+ A PASSIONATE DEVELOPER AND A LEARNER FROM INDIA.
+
+👀 I’m WEB DEVELOPER AND AI and ML ENTHUSIAST.
+
+📙 I’m currently learning FLASK , OTHER PYTHON BASED LIBRARIES AND  MACHINE LEARNING  .
+
+📫 How to reach me -kanthsubhashini@gmail.com
 
 ⚡ Fun fact:
 
@@ -10,7 +14,7 @@
 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
 ✏️ I Write blogs on subhin.blogspot.com in free time.
 🎵 I love listening music.
-Let's Connect ☕
+☕ Let's Connect 
 
 ![0_K2WLMTExLyida7OR](https://user-images.githubusercontent.com/70466192/117460551-42615000-af6a-11eb-862a-af428f9d0656.gif)
 <!---
