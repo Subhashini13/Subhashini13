@@ -6,7 +6,7 @@
 
 📙 I’m currently learning FLASK , OTHER PYTHON BASED LIBRARIES AND  MACHINE LEARNING  .
 
-📫 How to reach me -kanthsubhashini@gmail.com
+📫 How to reach me kanthsubhashini@gmail.com
 
 ⚡ Fun fact:
 
