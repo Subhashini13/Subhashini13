@@ -10,10 +10,10 @@
 
 ⚡ Fun fact:
 
-👯 I’m looking to collaborate on projects that are using Python.
-🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
 ✏️ I Write blogs on subhin.blogspot.com in free time.
+
 🎵 I love listening music.
+
 ☕ Let's Connect 
 
 ![0_K2WLMTExLyida7OR](https://user-images.githubusercontent.com/70466192/117460551-42615000-af6a-11eb-862a-af428f9d0656.gif)
