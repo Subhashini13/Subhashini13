@@ -12,7 +12,7 @@
 
 ✏️ I Write blogs on subhinspeaks.blogspot.com in free time.
 
-🎵 I love listening music, exploring new places , reading novels and capturing photographs through my LENS.
+🧡 I love listening music, exploring new places , reading novels and capturing photographs through my LENS.
 
 ☕ Let's Connect 
 
