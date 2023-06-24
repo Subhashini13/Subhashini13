@@ -6,6 +6,8 @@
 
 📙 I’m currently learning FLASK , OTHER PYTHON BASED LIBRARIES AND  MACHINE LEARNING  .
 
+EDIT 1: I 'm currently learning REACTJS 
+
 📫 How to reach me kanthsubhashini@gmail.com
 
 ⚡ Fun fact:
